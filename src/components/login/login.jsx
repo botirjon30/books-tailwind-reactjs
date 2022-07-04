@@ -4,7 +4,7 @@ import img from '../assets/images/Signup.png'
 function Login() {
     
   return (
-    <div className='flex w-full h-screen'>
+    <div className='flex w-full h-screen bg-white'>
         <div className=' flex justify-center xs:hidden sm:flex sm:w-[50%] items-center bg-[#C9AC8CED]'>
             <img src={img} alt='rasm' />
         </div>
