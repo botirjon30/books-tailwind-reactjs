@@ -1,10 +1,10 @@
 import './App.css';
-import Navbar from './components/navbar/navbar';
+import Login from './components/login/login';
 
 function App() {
   return (
     <div className="App">
-        <Navbar />
+        <Login />
     </div>
   );
 }
