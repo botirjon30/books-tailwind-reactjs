@@ -29,6 +29,7 @@ h6 {
 }
 
 p,
+li, 
 span,
 small {
   color: var(--text-white);
